@@ -1,19 +1,19 @@
-# test-task-01
+# Task 01
 
 ## Project setup
 ```
-npm install
+1. cd client && npm install
+2. cd server && npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+1. cd client && npm run serve
+2. cd server && npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+1. cd client && npm run build
+2. cd server && npm run start
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

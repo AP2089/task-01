@@ -1,0 +1,152 @@
+{
+  "products-own": [
+    {
+      "id": 1,
+      "name": "Shoes 1",
+      "selected": false,
+      "img": {
+        "any": "uploads/01.jpg",
+        "webp": "uploads/01.webp"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Shoes 2",
+      "selected": false,
+      "img": {
+        "any": "uploads/02.jpg",
+        "webp": "uploads/02.webp"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Shoes 3",
+      "selected": false,
+      "img": {
+        "any": "uploads/03.jpg",
+        "webp": "uploads/03.webp"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Shoes 4",
+      "selected": false,
+      "img": {
+        "any": "uploads/04.jpg",
+        "webp": "uploads/04.webp"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Shoes 5",
+      "selected": false,
+      "img": {
+        "any": "uploads/05.jpg",
+        "webp": "uploads/05.webp"
+      }
+    },
+    {
+      "id": 6,
+      "name": "T-shirt 6",
+      "selected": false,
+      "img": {
+        "any": "uploads/06.jpg",
+        "webp": "uploads/06.webp"
+      }
+    },
+    {
+      "id": 7,
+      "name": "T-shirt 7",
+      "selected": false,
+      "img": {
+        "any": "uploads/07.jpg",
+        "webp": "uploads/07.webp"
+      }
+    },
+    {
+      "id": 8,
+      "name": "T-shirt 8",
+      "selected": false,
+      "img": {
+        "any": "uploads/08.jpg",
+        "webp": "uploads/08.webp"
+      }
+    }
+  ],
+  "products-own-selected": [],
+  "products-offer": [
+    {
+      "id": 11,
+      "name": "Jacket 1",
+      "selected": false,
+      "img": {
+        "any": "uploads/01.jpg",
+        "webp": "uploads/01.webp"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Jacket 2",
+      "selected": false,
+      "img": {
+        "any": "uploads/02.jpg",
+        "webp": "uploads/02.webp"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Jacket 3",
+      "selected": false,
+      "img": {
+        "any": "uploads/03.jpg",
+        "webp": "uploads/03.webp"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Jacket 4",
+      "selected": false,
+      "img": {
+        "any": "uploads/04.jpg",
+        "webp": "uploads/04.webp"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Hoodie 5",
+      "selected": false,
+      "img": {
+        "any": "uploads/05.jpg",
+        "webp": "uploads/05.webp"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Hoodie 6",
+      "selected": false,
+      "img": {
+        "any": "uploads/06.jpg",
+        "webp": "uploads/06.webp"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Hoodie 7",
+      "selected": false,
+      "img": {
+        "any": "uploads/07.jpg",
+        "webp": "uploads/07.webp"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Hoodie 8",
+      "selected": false,
+      "img": {
+        "any": "uploads/08.jpg",
+        "webp": "uploads/08.webp"
+      }
+    }
+  ],
+  "products-offer-selected": []
+}
